@@ -1,7 +1,10 @@
 ---
 name: Bug report
-about: Report something that doesn't behave as we intended
+about: "Report something that doesn't behave as we intended"
+title: ''
 labels: bug
+assignees: ''
+
 ---
 
 **Describe the bug**
