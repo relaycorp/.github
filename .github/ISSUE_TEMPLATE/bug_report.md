@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+# Describe the bug
 
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
 
-**How to reproduce**
+# How to reproduce
 
 Steps to reproduce the behavior:
 
@@ -20,10 +20,10 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+# Expected behavior
 
-A clear and concise description of what you expected to happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
-**Additional context**
+# Additional context
 
-For example, Operating System, Node.js version, etc.
+<!-- For example, Operating System, Node.js version, Android version, etc. -->
