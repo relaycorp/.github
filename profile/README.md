@@ -6,7 +6,7 @@ We're Relaycorp, the makers of [Awala](https://awala.network).
 
 - Awala-specific libraries and apps are prefixed with `awala-` or, in the case of older repositories, `relaynet-`.
 - Projects available in multiple platforms or languages have a suffix denoting the platform/language. Examples include `-android` vs `-desktop`, and `-js` vs `-jvm`.
-- GitOps projects start with `cloud-`.
+- Cloud infrastructure projects start with `cloud-`.
 
 ## Contributions
 
