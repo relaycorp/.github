@@ -1,10 +1,10 @@
 # Hello world! 👋
 
-We're Relaycorp, the makers of [Awala](https://awala.network).
+We're Relaycorp, the makers of [Awala](https://awala.network), [Letro](https://letro.app/en/) and [VeraId](https://vera.domains/).
 
 ## Project organisation and conventions
 
-- Awala-specific libraries and apps are prefixed with `awala-` or, in the case of older repositories, `relaynet-`.
+- Repositories should generally be prefixed with their respective project: `awala-` for Awala (`relaynet-` in older repos), `letro-` for Letro and `vera-` for VeraId.
 - Projects available in multiple platforms or languages have a suffix denoting the platform/language. Examples include `-android` vs `-desktop`, and `-js` vs `-jvm`.
 - Cloud infrastructure projects start with `cloud-`.
 
