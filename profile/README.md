@@ -4,7 +4,7 @@ We're Relaycorp, the makers of [Awala](https://awala.network), [Letro](https://l
 
 ## Project organisation and conventions
 
-- Repositories should generally be prefixed with their respective project: `awala-` for Awala (`relaynet-` in older repos), `letro-` for Letro and `vera-` for VeraId.
+- Repositories should generally be prefixed with their respective project: `awala-` for Awala (`relaynet-` in older repos), `letro-` for Letro and `veraid-` for VeraId.
 - Projects available in multiple platforms or languages have a suffix denoting the platform/language. Examples include `-android` vs `-desktop`, and `-js` vs `-jvm`.
 - Cloud infrastructure projects start with `cloud-`.
 
