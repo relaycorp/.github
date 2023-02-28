@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-We're Relaycorp, the makers of [Awala](https://awala.network), [Letro](https://letro.app/en/) and [VeraId](https://veraid.net).
+We're Relaycorp, the makers of the computer network [Awala](https://awala.network), the email alternative [Letro](https://letro.app/en/) and the offline authentication protocol [VeraId](https://veraid.net).
 
 ## Project organisation and conventions
 
