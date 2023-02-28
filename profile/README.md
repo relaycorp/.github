@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-We're Relaycorp, the makers of [Awala](https://awala.network), [Letro](https://letro.app/en/) and [VeraId](https://vera.domains/).
+We're Relaycorp, the makers of [Awala](https://awala.network), [Letro](https://letro.app/en/) and [VeraId](https://veraid.net).
 
 ## Project organisation and conventions
 
