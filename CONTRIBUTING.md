@@ -13,5 +13,3 @@ At this point contributing is really straightforward. Here are some pointers:
 Please note that code contributions are subject to a [Contributor License Agreement (CLA)](https://relaycorp.tech/cla/).
 
 You agree to abide by our [code of conduct](CODE_OF_CONDUCT.md) by participating in our community.
-
-If you have any questions, please post them on .
