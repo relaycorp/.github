@@ -5,10 +5,10 @@ First of all, thank you so much for making the time to contribute! All contribut
 At this point contributing is really straightforward. Here are some pointers:
 
 - To report a security issue, read our [security policy](https://github.com/relaycorp/.github/blob/master/SECURITY.md).
-- To share feedback, ask questions or request features, use [our forum](https://community.awala.network/).
+- To share feedback, ask questions or request features, use the respective forum for the project.
 - To report a bug, open an issue on GitHub.
 - To fix a bug, open a pull request.
-- To implement a new feature, discuss it with us on a GitHub issue before writing any code.
+- To implement a new feature, discuss it with us on a GitHub or Jira issue before writing any code.
 
 Please note that code contributions are subject to a [Contributor License Agreement (CLA)](https://relaycorp.tech/cla/).
 
